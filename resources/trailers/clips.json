@@ -1,0 +1,15 @@
+{
+  "clips": [
+    { "id": "ocean", "file": "ocean.mp4" },
+    { "id": "forest", "file": "forest.mp4" },
+    { "id": "city", "file": "city.mp4" },
+    { "id": "night", "file": "night.mp4" },
+    { "id": "highway", "file": "highway.mp4" },
+    { "id": "crowd", "file": "crowd.mp4" },
+    { "id": "street", "file": "street.mp4" },
+    { "id": "bloom", "file": "bloom.mp4" },
+    { "id": "studio", "file": "studio.mp4" }
+  ],
+  "transitions": ["fade", "wipe-left", "wipe-up", "zoom", "flash", "dissolve"],
+  "titleStyles": ["rise", "tracking", "scale", "glitch", "typewriter", "flicker", "slide"]
+}

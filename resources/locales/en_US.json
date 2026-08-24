@@ -1,0 +1,102 @@
+{
+  "label": "English (USA)",
+  "faker": "en_US",
+  "comingSoon": "COMING SOON",
+  "ratings": ["G", "PG", "13+", "16+", "18+"],
+  "companies": [
+    "Hyatt Inc", "Northwind Labs", "Harbor & Co", "Velvet Press", "Iron Gate",
+    "Silver Orchard", "Midnight Bureau", "Paper Lantern", "Crown Street"
+  ],
+  "synopses": [
+    "A mother and daughter try to rebuild a house, and a life, after a winter they will not name.",
+    "{actor} plays a cartographer hired to redraw a border that only exists on paper.",
+    "Two strangers share a night train and a secret that will not survive daylight.",
+    "A quiet {genre} about a lighthouse keeper who starts receiving letters addressed to the dead.",
+    "When the archive floods, a clerk has one night to decide which memories are worth saving."
+  ],
+  "taglines": [
+    "THIS FALL",
+    "THIS WINTER",
+    "ONE LAST MISSION",
+    "NOTHING IS FORGIVEN",
+    "THE TRUTH HAS A PRICE",
+    "NO ONE GETS OUT CLEAN",
+    "BASED ON A LIE",
+    "IN THEATERS NOW",
+    "THE END BEGINS",
+    "TRUST NO ONE"
+  ],
+  "genres": [
+    "Drama", "Thriller", "Comedy", "Romance", "Science Fiction", "Horror",
+    "Crime", "Adventure", "Mystery", "War", "Western", "Fantasy",
+    "Historical", "Family", "Action", "Noir", "Musical", "Documentary"
+  ],
+  "title": {
+    "patterns": [
+      "The {adj} {noun}",
+      "{adj} {noun}",
+      "{noun} of {noun2}",
+      "The {noun} {suffix}",
+      "{name}'s {noun}",
+      "A {adj} {noun}",
+      "{adj} {noun2}",
+      "The Last {noun}",
+      "{noun} and {noun2}"
+    ],
+    "adjectives": [
+      "Silent", "Broken", "Golden", "Hidden", "Crimson", "Endless", "Bitter",
+      "Hollow", "Quiet", "Feral", "Pale", "Iron", "Velvet", "Crooked", "Sacred",
+      "Frozen", "Restless", "Midnight", "Ashen", "Bright", "Lonely", "Wicked",
+      "Gentle", "Savage", "Distant", "Burning", "Silver", "Forgotten", "Wild",
+      "Paper", "Glass", "Copper", "Northern", "Southern", "Empty", "Heavy",
+      "Slow", "Sudden", "Private", "Public", "Second", "Final", "First"
+    ],
+    "nouns": [
+      "Harbor", "Protocol", "Kingdom", "Shadow", "Voyage", "Ember", "Cipher",
+      "Orchard", "Witness", "Season", "River", "Machine", "Garden", "Trial",
+      "Sparrow", "Cathedral", "Frontier", "Bargain", "Echo", "Passenger",
+      "Mirror", "Cartographer", "Lighthouse", "Archive", "Requiem", "Oath",
+      "Corridor", "Harvest", "Signal", "Threshold", "Letter", "Winter",
+      "Compass", "Chapel", "Bridge", "Hunter", "Daughter", "Son", "Crown"
+    ],
+    "nouns2": [
+      "Dust", "Glass", "Mercy", "Stone", "Smoke", "Salt", "Light", "Rain",
+      "Bone", "Fire", "Snow", "Iron", "Amber", "Night", "Dawn", "Silence",
+      "Memory", "Water", "Gold", "Ash", "Paper", "Wind", "Blood", "Time"
+    ],
+    "suffixes": [
+      "Rising", "Returns", "Forever", "Reborn", "Unbound", "Redux", "Awakens",
+      "Falls", "Begins", "Remains"
+    ]
+  },
+  "reviewOpeners": [
+    "I walked out of {title} still hearing the score.",
+    "{actor} carries this {genre} with a kind of stubborn grace.",
+    "The first hour of {title} is all weather and withheld information.",
+    "Not a perfect film, but a strangely honest one.",
+    "A studio {genre} that somehow still feels handmade.",
+    "Friends told me to skip {title}. They were wrong.",
+    "There is a scene in the third act I keep replaying.",
+    "Quiet, then suddenly not quiet at all."
+  ],
+  "reviewBodies": [
+    "The camera stays a half-step too far from the faces, which turns every conversation into a small mystery.",
+    "Dialogue snaps like dry wood; nobody explains the plot, they just live inside it.",
+    "Production design does the heavy lifting: rooms that feel occupied, streets that remember rain.",
+    "It borrows from older pictures without becoming a costume party.",
+    "The cut from the highway to the kitchen table is the whole movie in two shots.",
+    "Humor arrives late and a little mean, which is exactly when this story needed it.",
+    "You can feel the edit hunting for a pulse, and then it finds one and refuses to let go.",
+    "Performances stay in the register of people who have already lost the argument."
+  ],
+  "reviewClosers": [
+    "I would watch it again on a wet Thursday.",
+    "Not for everyone, and that is the point.",
+    "A small film that leaves a long shadow.",
+    "Take someone who likes to argue afterward.",
+    "The last shot is worth the ticket.",
+    "Flawed, memorable, and oddly kind.",
+    "It stays with you like smoke in a coat.",
+    "See it before the internet decides what it is."
+  ]
+}
